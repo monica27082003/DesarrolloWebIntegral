@@ -1,0 +1,1 @@
+Este es un archivo de prueba para la práctica 01 de Git.
